@@ -1,0 +1,38 @@
+{
+    "gecode": {
+        "time": 300,
+        "optimal": false,
+        "obj": Infinity,
+        "sol": []
+    },
+    "gecode_symbreak": {
+        "time": 300,
+        "optimal": false,
+        "obj": Infinity,
+        "sol": []
+    },
+    "gecode_random": {
+        "time": 300,
+        "optimal": false,
+        "obj": Infinity,
+        "sol": []
+    },
+    "gecode_random_symbreak": {
+        "time": 300,
+        "optimal": false,
+        "obj": Infinity,
+        "sol": []
+    },
+    "chuffed": {
+        "time": 300,
+        "optimal": false,
+        "obj": Infinity,
+        "sol": []
+    },
+    "chuffed_symbreak": {
+        "time": 300,
+        "optimal": false,
+        "obj": Infinity,
+        "sol": []
+    }
+}

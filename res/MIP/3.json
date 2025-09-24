@@ -1,0 +1,122 @@
+{
+    "Pulp-CBC+Basic": {
+        "time": 0,
+        "optimal": true,
+        "obj": 12,
+        "sol": [
+            [
+                3,
+                6,
+                5
+            ],
+            [
+                4,
+                2
+            ],
+            [
+                7,
+                1
+            ]
+        ]
+    },
+    "Pulp-CBC+Pruning": {
+        "time": 0,
+        "optimal": true,
+        "obj": 12,
+        "sol": [
+            [
+                5,
+                6,
+                3
+            ],
+            [
+                2,
+                4
+            ],
+            [
+                7,
+                1
+            ]
+        ]
+    },
+    "Gurobi+Basic": {
+        "time": 0,
+        "optimal": true,
+        "obj": 12,
+        "sol": [
+            [
+                5,
+                6,
+                3
+            ],
+            [
+                2,
+                4
+            ],
+            [
+                1,
+                7
+            ]
+        ]
+    },
+    "Gurobi+Warm_Start": {
+        "time": 0,
+        "optimal": true,
+        "obj": 12,
+        "sol": [
+            [
+                5,
+                4,
+                2
+            ],
+            [
+                3,
+                6
+            ],
+            [
+                1,
+                7
+            ]
+        ]
+    },
+    "Gurobi+Pruning": {
+        "time": 0,
+        "optimal": true,
+        "obj": 12,
+        "sol": [
+            [
+                5,
+                4,
+                2
+            ],
+            [
+                7,
+                3
+            ],
+            [
+                1,
+                6
+            ]
+        ]
+    },
+    "Gurobi+Warm_Start+Pruning": {
+        "time": 0,
+        "optimal": true,
+        "obj": 12,
+        "sol": [
+            [
+                5,
+                4,
+                2
+            ],
+            [
+                3,
+                6
+            ],
+            [
+                1,
+                7
+            ]
+        ]
+    }
+}

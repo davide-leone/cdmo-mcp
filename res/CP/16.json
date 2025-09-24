@@ -1,0 +1,126 @@
+{
+    "gecode": {
+        "time": 300,
+        "optimal": false,
+        "obj": Infinity,
+        "sol": []
+    },
+    "gecode_symbreak": {
+        "time": 300,
+        "optimal": false,
+        "obj": Infinity,
+        "sol": []
+    },
+    "gecode_random": {
+        "time": 1,
+        "optimal": true,
+        "obj": 286,
+        "sol": [
+            [
+                23,
+                33
+            ],
+            [
+                12,
+                26
+            ],
+            [
+                45,
+                40
+            ],
+            [
+                39,
+                6
+            ],
+            [
+                4,
+                35,
+                24,
+                21
+            ],
+            [
+                30,
+                3
+            ],
+            [
+                36
+            ],
+            [
+                31
+            ],
+            [
+                22
+            ],
+            [
+                43
+            ],
+            [
+                16,
+                38,
+                34,
+                44
+            ],
+            [
+                9,
+                46,
+                42,
+                41
+            ],
+            [
+                18,
+                5
+            ],
+            [
+                29,
+                13
+            ],
+            [
+                11,
+                7,
+                25,
+                47
+            ],
+            [
+                10,
+                19,
+                1
+            ],
+            [
+                17,
+                15,
+                14
+            ],
+            [
+                8,
+                2,
+                32,
+                37
+            ],
+            [
+                27
+            ],
+            [
+                20,
+                28
+            ]
+        ]
+    },
+    "gecode_random_symbreak": {
+        "time": 300,
+        "optimal": false,
+        "obj": Infinity,
+        "sol": []
+    },
+    "chuffed": {
+        "time": 300,
+        "optimal": false,
+        "obj": Infinity,
+        "sol": []
+    },
+    "chuffed_symbreak": {
+        "time": 300,
+        "optimal": false,
+        "obj": Infinity,
+        "sol": []
+    }
+}

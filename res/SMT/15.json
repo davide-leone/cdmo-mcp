@@ -1,0 +1,14 @@
+{
+    "basic": {
+        "time": 300,
+        "optimal": false,
+        "obj": null,
+        "sol": []
+    },
+    "heuristic+pruning": {
+        "time": 300,
+        "optimal": false,
+        "obj": null,
+        "sol": []
+    }
+}

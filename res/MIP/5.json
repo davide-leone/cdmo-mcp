@@ -1,0 +1,86 @@
+{
+    "Pulp-CBC+Basic": {
+        "time": 0,
+        "optimal": true,
+        "obj": 206,
+        "sol": [
+            [
+                2
+            ],
+            [
+                1,
+                3
+            ]
+        ]
+    },
+    "Pulp-CBC+Pruning": {
+        "time": 0,
+        "optimal": true,
+        "obj": 206,
+        "sol": [
+            [
+                2
+            ],
+            [
+                1,
+                3
+            ]
+        ]
+    },
+    "Gurobi+Basic": {
+        "time": 0,
+        "optimal": true,
+        "obj": 206,
+        "sol": [
+            [
+                2
+            ],
+            [
+                1,
+                3
+            ]
+        ]
+    },
+    "Gurobi+Warm_Start": {
+        "time": 0,
+        "optimal": true,
+        "obj": 206,
+        "sol": [
+            [
+                2
+            ],
+            [
+                1,
+                3
+            ]
+        ]
+    },
+    "Gurobi+Pruning": {
+        "time": 0,
+        "optimal": true,
+        "obj": 206,
+        "sol": [
+            [
+                2
+            ],
+            [
+                1,
+                3
+            ]
+        ]
+    },
+    "Gurobi+Warm_Start+Pruning": {
+        "time": 0,
+        "optimal": true,
+        "obj": 206,
+        "sol": [
+            [
+                2
+            ],
+            [
+                1,
+                3
+            ]
+        ]
+    }
+}
